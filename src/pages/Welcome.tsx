@@ -8,7 +8,7 @@ export const Welcome = () => {
     return (
         <div>
             <h1>
-                id = {id}
+                Changed Content {id}
             </h1>
             <h1>
                 Welcome PAGE
